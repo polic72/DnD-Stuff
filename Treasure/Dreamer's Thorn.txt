@@ -1,0 +1,18 @@
+Dreamer's Thorn
+
+Spear, Very Rare (requires attunement)
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. Attuning this weapon requires 8 hours of uninterrupted sleep. Unattuning this weapon requires a full 24 hours without a long rest, taking the hit to exhaustion.
+
+Description: This long spear boasts an ornate structure. Its black pole is carved with strange symbols written in Sylvan. The tip of the spear, made of pure silver, has a vibrant glow with off-white crescent moons spoking off of it.
+
+Charged: 10 charges max, 2 regained at completion of a long rest.
+
+Keen Mind: You have advantage on saving throws against spells of the illusion and enchantment schools while you hold this spear.
+
+Destroy Illusion: As a reaction, you can spend 1 charge to dispel a spell of the illusion or enchantment schools that is affecting you. As a bonus action, you can spend 2 charges to dispel a spell of the illusion or enchantment schools that is affecting a creature that you touch.
+
+Dream: You can spend 4 charges to cast Dream (in either of its forms). The save DC for this spell is 16.
+
+
+Story: There came a wanderer from the trackless wastelands, bearing a spear whose haft was from no tree we had ever seen, and its head was a metal we had seen only in our dreams. He had fashioned it, he said, from the tree that flourishes only in moonlight, and from the iron that unmade the first fey. He made it so that magical guile might not hold dominion over all of humanity. "The pricking of this thorn wakens the deepest sleeper," he said, and he gave it to a girl on the cusp of womanhood, whose hands were quick and whose wit was sharp. "Keep it from its fate as long as you may, for it is forever drawn to the One who must stay in dream's shrouding."
