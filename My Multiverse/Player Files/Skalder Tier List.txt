@@ -1,0 +1,8 @@
+Everyone Tier:
+	Everyone
+
+Doldrey Tier:
+	Doldrey
+
+Skalder Tier:
+	Skalder
