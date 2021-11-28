@@ -17,4 +17,4 @@ Dead Tier:
 	Nade, Vath
 
 Skalder Tier:
-	Skalde
+	Skalder
