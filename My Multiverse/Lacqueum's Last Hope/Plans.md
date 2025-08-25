@@ -2,7 +2,7 @@
 
 
 ## Beginning
-- Reread the primer with music.
+- Reread the [primer](/Primer.md) with [music](/Music.md#opening).
     - This should get everyone in the mood.
 - Do basic character introductions.
     - This will let players know everyone else's characters.
